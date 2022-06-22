@@ -10,7 +10,7 @@ npm install -g truffle
 ### install Ganache
 https://trufflesuite.com/ganache/  
 
-### solidity compile
+### contract compile
 ```
 truffle compile
 ```
